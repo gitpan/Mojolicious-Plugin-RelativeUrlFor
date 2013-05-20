@@ -18,5 +18,5 @@ no_index:
     - t
     - inc
 requires:
-  Mojolicious: 3
-version: 0.02
+  Mojolicious: 4
+version: 0.03
